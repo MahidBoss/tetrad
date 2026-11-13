@@ -1,0 +1,1 @@
+{"dependencies":{"near-sdk-js":"latest"},"name":"tetrad-gate","scripts":{"build":"near-sdk-js build src/contract.js build/contract.wasm","prebuild":"mkdir -p src && cp gate-contract.js src/contract.js"},"type":"module","version":"1.0.0"}
